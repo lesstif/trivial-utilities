@@ -8,7 +8,7 @@
 Homestead.json
 Homestead.yaml
 npm-debug.log
-.ena
+.env
 
 
 # Created by https://www.gitignore.io/api/vim,macos,linux,phpstorm
@@ -131,3 +131,6 @@ Session.vim
 tags
 
 # End of https://www.gitignore.io/api/vim,macos,linux,phpstorm
+_ide_helper.php
+
+
